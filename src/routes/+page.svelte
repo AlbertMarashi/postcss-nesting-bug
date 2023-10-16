@@ -9,10 +9,10 @@
 div {
     border: 1px solid red;
     padding: 10px;
-    & .foo {
+    &.foo {
         border: 1px solid blue;
     }
-    & .bar {
+    &.bar {
         border: 1px solid green;
     }
 }
