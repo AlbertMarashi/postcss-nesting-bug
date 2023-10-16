@@ -1,8 +1,8 @@
 <div class="foo">
-    foo
+    this should be blue
 </div>
 <div class="foo bar">
-    bar
+    this should be green
 </div>
 <style>
 
